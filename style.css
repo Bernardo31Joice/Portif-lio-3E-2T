@@ -1,13 +1,8 @@
 :root {
---cor-de-fundo: #f0eef3;
+--cor-de-fundo: #701feb;
 --verde: #fbfb05;
 --branco: #f7f2f7;
 --botao-ativo: #5e52e8;
 --botao-inativo: rgba(58, 55, 94, 0.5);
 --texto-fundo: rgba(58, 55, 94, 0.3);
-}
-
-body{
-    background-color: black; /*cor de fundo*/
-    color: white; /*cor do texto*/
 }
